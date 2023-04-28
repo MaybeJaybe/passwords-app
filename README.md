@@ -68,3 +68,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+https://github.com/Tech-at-DU/React-Redux-passwords-Tutorial
+
+TODO:
+
+Use a select menu to choose one of three different password generators.
+
+You can use one of these patterns, or make up your own.
+
+Letters (Only letters: AbC...)
+Letters + Numbers (Letters and numbers: a2B...)
+Letters + Numbers + Punctuation (Letter, numbers, and punctuation: a2#...)
+(MAYBE, words + letters + numbers + punctuation)
+
+Use the Controlled Component Pattern again withe select element.
+
+You will need to modify your password generation code to handle the system chosen from the menu.
+
